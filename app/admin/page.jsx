@@ -303,7 +303,7 @@ export default function AdminDashboardPage() {
                 <div className="flex items-center justify-between mb-4">
                   <div>
                     <p className="text-sm text-muted-foreground">New customers this month</p>
-                    <p className="text-2xl font-bold">128</p>
+                    <p className="text-2xl font-bold">111</p>
                   </div>
                   <div className="bg-green-100 text-green-800 py-1 px-2 rounded-lg flex items-center">
                     <ArrowUp className="h-3 w-3 mr-1" />
@@ -351,10 +351,10 @@ export default function AdminDashboardPage() {
                     <span className="text-sm">May</span>
                     <div className="w-full mx-2">
                       <div className="h-2 bg-blue-100 rounded-full">
-                        <div className="h-full bg-blue-500 rounded-full w-[128%]"></div>
+                        <div className="h-full bg-blue-500 rounded-full w-[111%]"></div>
                       </div>
                     </div>
-                    <span className="text-sm font-medium">128</span>
+                    <span className="text-sm font-medium">111</span>
                   </div>
                 </div>
               </CardContent>
