@@ -307,7 +307,7 @@ export default function AdminDashboardPage() {
                   </div>
                   <div className="bg-green-100 text-green-800 py-1 px-2 rounded-lg flex items-center">
                     <ArrowUp className="h-3 w-3 mr-1" />
-                    <span className="text-xs font-medium">15.3%</span>
+                    <span className="text-xs font-medium">0.93%</span>
                   </div>
                 </div>
                 <div className="space-y-2">
