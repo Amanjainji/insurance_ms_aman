@@ -97,8 +97,8 @@ export default function Navbar() {
 
               <DropdownMenu>
                 <DropdownMenuTrigger asChild>
-                  <Button variant="ghost" className="relative h-8 w-8 rounded-full">
-                    <Avatar className="h-8 w-8">
+                  <Button variant="ghost" className="relative text-white bg-purple-800 h-8 w-8 rounded-full">
+                    AJ<Avatar className="h-8 w-8">
                       <AvatarImage src="/placeholder2.svg" alt={user.name} />
                       <AvatarFallback>{user.name.charAt(0)}</AvatarFallback>
                     </Avatar>
